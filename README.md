@@ -5,13 +5,12 @@
 
 ## 🧑‍💻 About Me
 
-I’m **Vishal**, a full‑stack developer who turns complex ideas into reliable, elegant software.  
+A full‑stack developer who turns complex ideas into reliable, elegant software.  
 My day‑to‑day work spans sleek UIs, rock‑solid APIs, and data that scales.
 
 - **Current focus:** production‑grade apps with the **MERN** stack  
 - **Daily sharpening:** solving algorithms on **LeetCode** (150 + problems)  
-- **Languages I enjoy:** `C++`, `JavaScript`, `Python`  
-- **Learning now:** deeper system‑design patterns & efficient deployment pipelines  
+- **Languages I enjoy:** `C++`, `JavaScript`  
 
 ---
 
