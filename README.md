@@ -15,7 +15,7 @@ My day‑to‑day work spans sleek UIs, rock‑solid APIs, and data that scales.
 ---
 
 ## 🚀 Key Tech  
-![Tech stack icons](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,cpp,js,postman,git,github)
+![Tech stack icons](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,graphql,cpp,js,postman,git,github)
 
 ---
 
@@ -25,7 +25,7 @@ My day‑to‑day work spans sleek UIs, rock‑solid APIs, and data that scales.
 |--------|-------|
 | 🌐 **Frontend** | React ⚛️, Tailwind CSS 🎨, JavaScript 📜 |
 | 🧠 **Backend** | Node.js 🌿, Express.js 🚂 |
-| 🗄️ **Databases** | MongoDB 🍃, MySQL 🐬 |
+| 🗄️ **Databases** | MongoDB 🍃, MySQL 🐬, GraphQL |
 | 📜 **Programming** | C++ 💡, JavaScript 📜, Python 🐍 |
 | 🧰 **Tools** | Git, GitHub, VS Code, Postman |
 
