@@ -37,7 +37,8 @@ I sharpen my skills by tackling real challenges—building logic, spotting patte
 
 **📈 150 + problems solved** on **LeetCode** (quality over quantity).
 
-![LeetCode stats](https://leetcard.jacoblin.cool/Vishal_Shingala?theme=dark&font=Fira+Code)
+![LeetCode stats](https://leetcard.jacoblin.cool/Vishal_Shingala?theme=dark&font=Fira+Code)  
+🔗 [Visit my LeetCode profile](https://leetcode.com/Vishal_Shingala/)
 
 **⚔️ Strengths:** `Arrays` • `Linked List` • `Graphs` • `Dynamic Programming` • `Sliding Window`  
 
