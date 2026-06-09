@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vishal
-### Full‑Stack Developer&nbsp;| LeetCode Enthusiast
+### Full‑Stack Developer&nbsp;| LeetCode
 
 ---
 
