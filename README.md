@@ -14,6 +14,19 @@ My day‑to‑day work spans sleek UIs, rock‑solid APIs, and data that scales.
 
 ---
 
+## 💼 Commercial Work
+
+### [FilingBy.com](https://www.filingby.com/)
+*India's Trusted Legal & Compliance Platform*
+
+As a Full-Stack Developer, I contributed to this robust, 100% online platform that helps entrepreneurs start, manage, and grow their businesses through expert CA & CS assisted services.
+
+- **Impact:** The platform powers company registration, GST, and legal services for over **50,000+ businesses** with a focus on fast processing and data security.
+- **Key Contributions:** Developed intuitive UI for document uploads, integrated secure backend APIs for service tracking, and ensured a seamless user experience from form submission to certificate delivery.
+- **Tech Used:** `React`, `Node.js`, `Tailwind CSS`, `MongoDB`, `Express.js`, `Razorpay API`, `Clerk`
+
+---
+
 ## 🚀 Key Tech  
 ![Tech stack icons](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,graphql,cpp,js,postman,git,github)
 
@@ -28,19 +41,6 @@ My day‑to‑day work spans sleek UIs, rock‑solid APIs, and data that scales.
 | 🗄️ **Databases** | MongoDB 🍃, MySQL 🐬, GraphQL |
 | 📜 **Programming** | C++ 💡, JavaScript 📜, Python 🐍 |
 | 🧰 **Tools** | Git, GitHub, VS Code, Postman |
-
----
-
-## 💼 Commercial Work
-
-### [FilingBy.com](https://www.filingby.com/)
-*India's Trusted Legal & Compliance Platform*
-
-As a Full-Stack Developer, I contributed to this robust, 100% online platform that helps entrepreneurs start, manage, and grow their businesses through expert CA & CS assisted services.
-
-- **Impact:** The platform powers company registration, GST, and legal services for over **50,000+ businesses** with a focus on fast processing and data security.
-- **Key Contributions:** Developed intuitive UI for document uploads, integrated secure backend APIs for service tracking, and ensured a seamless user experience from form submission to certificate delivery.
-- **Tech Used:** `React`, `Node.js`, `Tailwind CSS`, `MongoDB`, `Express.js`, `Razorpay API`, `Clerk`
 
 ---
 
